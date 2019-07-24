@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Lights Off</string>
+
+    <string name="MOVIE_DB_API_KEY">**Paste your TMDB API key here**</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+
+    <string name="now_showing">Now Showing</string>
+    <string name="popular">Popular</string>
+
+    <string name="top_rated">Top Rated</string>
+
+    <string name="view_all">View All</string>
+
+    <string name="now_showing_movies">Now Showing Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+
+    <string name="top_rated_movies">Top Rated Movies</string>
+
+    <string name="popular_tv_shows">Popular TV Shows</string>
+    <string name="top_rated_tv_shows">Top Rated TV Shows</string>
+
+
+    <string name="read_more">Read More</string>
+    <string name="movie_details">Release Date  \nRuntime  </string>
+    <string name="trailers">Trailers</string>
+    <string name="cast">Cast</string>
+    <string name="biography">Biography</string>
+    <string name="movie_cast">Movie Cast</string>
+    <string name="tv_cast">TV Cast</string>
+    <string name="tv_show_details">First Air Date  \nRuntime  \nStatus  \nOrigin Country  \nNetworks  </string>
+    <string name="videos">Videos</string>
+
+    <string name="no_fav_movies">No Favourite Movies</string>
+    <string name="no_fav_tv_shows">No Favourite TV Shows</string>
+
+    <string name="search_movies_tv_shows_people">Search Movies, TV Shows or People</string>
+    <string name="search">Search</string>
+    <string name="no_results_found">No results found</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="person">Person</string>
+
+    <string name="no_network">Please Check Your Internet Connection</string>
+
+    <string name="press_again_to_exit">Press again to exit</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="title_activity_cast_detail">CastDetailActivity</string>
+    <string name="title_activity_view_all_movies">ViewAllMoviesActivity</string>
+    <string name="title_activity_view_all_tvshows">ViewAllTVShowsActivity</string>
+    <string name="title_activity_tvshow_detail">TVShowDetailActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+</resources>
